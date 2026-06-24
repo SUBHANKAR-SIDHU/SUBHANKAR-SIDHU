@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Subhankar%20Sidhu&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=%F0%9F%9A%80%20Full%20Stack%20Developer%20%7C%20React%20Specialist%20%7C%20Problem%20Solver&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3B6aGQ2cjhpbnVhYWYwNWJyamoxYnNxYzJ5ZmVqajg3M3R2ZDQ2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FlGmdHyBjNaMM/giphy.gif" alt="Banner" width="100%" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3B6aGQ2cjhpbnVhYWYwNWJyamoxYnNxYzJ5ZmVqajg3M3R2ZDQ2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FlGmdHyBjNaMM/giphy.gif" alt="Banner" width="100%" height="300rem" />
 
 ## 📌 About Me
 - 🎓 College Student (2nd Year)
